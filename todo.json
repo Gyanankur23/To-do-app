@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Call mom",
+        "description": "Ask about weekend plans.",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "title": "Finish math homework",
+        "description": "Pages 45-48, due Monday.",
+        "category": "Urgent",
+        "completed": false
+    },
+    {
+        "title": "Email boss",
+        "description": "Send updated sales numbers.",
+        "category": "Work",
+        "completed": true
+    },
+    {
+        "title": "Buy dog food",
+        "description": "Check if Max needs new toys too.",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "title": "Fix bike tire",
+        "description": "Pump it or replace if needed.",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "title": "Watch lecture video",
+        "description": "Topic: Cloud Computing basics.",
+        "category": "Study",
+        "completed": true
+    }
+]
